@@ -7,7 +7,7 @@ const myBooks = [
   { id: '2', title: 'Project Hail Mary', author: 'Andy Weir', desc: 'A lone astronaut must save Earth from an extinction-level threat using science and logic.' },
   { id: '3', title: 'Neuromancer', author: 'William Gibson', desc: 'The definitive cyberpunk novel about a washed-up computer hacker hired for one last job.' },
   { id: '4', title: 'Dark Matter', author: 'Blake Crouch', desc: 'A mind-bending thriller about the choices we make and the different lives we could have lived.' },
-  { id: '5', title: 'The Three-Body Problem', author: 'Cixin Liu', desc: 'A story of humanity’s first contact with an alien civilization during the Chinese Cultural Revolution.' }
+  { id: '5', title: 'The Three-Body Problem', author: 'Cixin Liu', desc: 'A story of humanity`s first contact with an alien civilization during the Chinese Cultural Revolution.' }
 ];
 
 const BookList = () => {

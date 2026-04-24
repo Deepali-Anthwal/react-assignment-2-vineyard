@@ -25,7 +25,5 @@ The application is structured around a central data array and two main functiona
    - Open your terminal or command prompt inside the project folder.
 3. **Install Dependencies:**
    npm install
-4. **Start Developtment Server:**
-   npm run dev
-5. **View in Browser:**
-   Open "http://localhost:5173" in your web browser.
+4. **Start Project:**
+   npm start
